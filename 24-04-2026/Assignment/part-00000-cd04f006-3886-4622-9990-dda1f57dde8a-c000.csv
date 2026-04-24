@@ -1,0 +1,12 @@
+order_id,product_id,customer_id,order_date,status,name,city,age,signup_date,quantity,product_name,category,price,payment_id,payment_type,amount,revenue
+1,102,1,2024-03-01,Delivered,Amit,Hyderabad,28,2023-01-10,2,Headphones,Electronics,3000,1,Credit Card,81000,6000
+1,101,1,2024-03-01,Delivered,Amit,Hyderabad,28,2023-01-10,1,Laptop,Electronics,75000,1,Credit Card,81000,75000
+2,103,2,2024-03-02,Delivered,Priya,Bangalore,32,2023-02-12,1,Keyboard,Electronics,1500,2,UPI,1500,1500
+3,101,3,2024-03-03,Cancelled,Rahul,Mumbai,29,2023-03-14,1,Laptop,Electronics,75000,3,Debit Card,75000,75000
+4,104,4,2024-03-04,Delivered,Sneha,Delhi,35,2023-04-15,1,Monitor,Electronics,12000,4,Credit Card,12000,12000
+5,107,5,2024-03-05,Delivered,Arjun,Chennai,27,2023-05-11,1,Smartphone,Electronics,40000,5,UPI,40000,40000
+6,102,6,2024-03-06,Delivered,Meera,Hyderabad,31,2023-06-10,3,Headphones,Electronics,3000,6,UPI,9000,9000
+7,103,7,2024-03-07,Pending,Karan,Pune,33,2023-06-22,2,Keyboard,Electronics,1500,7,Debit Card,3000,3000
+8,110,8,2024-03-08,Delivered,Neha,Delhi,30,2023-07-10,1,Tablet,Electronics,30000,8,Credit Card,30000,30000
+9,108,9,2024-03-09,Delivered,Divya,Bangalore,26,2023-07-15,5,Notebook,Stationery,100,9,UPI,500,500
+10,109,10,2024-03-10,Delivered,Vikram,Mumbai,40,2023-08-01,10,Pen,Stationery,20,10,UPI,200,200
