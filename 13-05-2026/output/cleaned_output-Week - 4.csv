@@ -1,0 +1,3 @@
+order_id,supplier_id,delivery_date,status,delay_days,is_delayed
+102,2,2026-05-12,delayed,0,1
+104,2,2026-05-03,delayed,0,1
