@@ -1,0 +1,5 @@
+customer_id,customer_name,delivery_date,status,issue,delay_days,is_delayed
+1,vaishali,2026-05-01,delayed,late delivery,13,1
+2,rahul,2026-05-12,delivered,no issue,2,0
+3,priya,2026-05-03,delayed,damaged package,11,1
+4,arun,2026-05-08,delayed,late delivery,6,1
